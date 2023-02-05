@@ -11,7 +11,6 @@
 
 
 Dell inspiron 15 3558‘s OpenCore for MacOS BigSur
-(Because macos12+ does not support fakepciid, internal usb2.0 hub will be lost, so it only supports BigSur)
 
 ## Device infomation
 - Wireless card: Intel 3168
