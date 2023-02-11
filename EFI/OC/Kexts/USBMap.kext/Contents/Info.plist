@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacBook8,1-EH01</key>
+		<key>MacBookAir7,1-EH01</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -69,9 +69,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBook8,1</string>
+			<string>MacBookAir7,1</string>
 		</dict>
-		<key>MacBook8,1-HUB-1d100000</key>
+		<key>MacBookAir7,1-HUB-1d100000</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -168,9 +168,9 @@
 			<key>locationID</key>
 			<integer>487587840</integer>
 			<key>model</key>
-			<string>MacBook8,1</string>
+			<string>MacBookAir7,1</string>
 		</dict>
-		<key>MacBook8,1-XHC</key>
+		<key>MacBookAir7,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -334,7 +334,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBook8,1</string>
+			<string>MacBookAir7,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
